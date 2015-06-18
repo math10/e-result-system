@@ -1,6 +1,6 @@
 e-result-system
 ===============
 
-work with 
+work with
 Pritam Das
 Faiaz ahsan
