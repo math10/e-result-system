@@ -2,5 +2,5 @@ e-result-system
 ===============
 
 work with
-Pritam Das
+Pritam Das,
 Faiaz ahsan
